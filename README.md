@@ -4,7 +4,7 @@
 
 **👋 Welcome to our Knowledge Base! 👋**
 
-We’re using [Github Discussions](https://github.com/gruntwork-io/knowledge-base/discussions) as a place to answer questions and share the knowledge of our community. We hope that you:
+We’re using [Github Discussions](https://github.com/tnn-gruntwork-io/knowledge-base/discussions) as a place to answer questions and share the knowledge of our community. We hope that you:
 
 - Find answers to questions you are having.
 - If you couldn't find an answer, you are more than welcomed to ask a question 😃
@@ -12,4 +12,4 @@ We’re using [Github Discussions](https://github.com/gruntwork-io/knowledge-bas
 - Welcome others and are open-minded. Remember that this is a community we build together 💪.
 - Be sure to mark someone’s comment as an answer if it helps you resolve your question.
 
-Please review our [code of conduct](CODE_OF_CONDUCT.md) before participating in our [Knowledge Base](https://github.com/gruntwork-io/knowledge-base/discussions).
+Please review our [code of conduct](CODE_OF_CONDUCT.md) before participating in our [Knowledge Base](https://github.com/tnn-gruntwork-io/knowledge-base/discussions).
